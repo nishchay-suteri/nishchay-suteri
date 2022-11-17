@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nishchay-suteri
 - 👀 I’m interested in Cloud computing & Full stack web development.
-- 🌱 I’m currently learning AWS Cloud Services.
+- 🌱 I’m currently working in Microsoft as software developer.
 - 📫 How to reach me : Email- nishchaysuteri@gmail.com
